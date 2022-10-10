@@ -19,3 +19,4 @@ Hde this word
 letter only
 translate letters
 Donot translate but delect character
+Reverse input
