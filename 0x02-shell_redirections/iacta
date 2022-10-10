@@ -1,0 +1,7 @@
+
+we are here right
+mv /tmp/betty /tmp/my_first_directory/betty
+the long journey
+ln -s /bin/ls __ls__
+run
+mv [[:upper:]]* /tmp/u
