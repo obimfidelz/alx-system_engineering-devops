@@ -9,3 +9,4 @@ script that creat files
 Save current state of directory
 Duplicating last line of a file
 Delete all .js files
+Count Directories
