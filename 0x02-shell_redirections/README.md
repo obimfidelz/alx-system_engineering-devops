@@ -10,3 +10,4 @@ Save current state of directory
 Duplicating last line of a file
 Delete all .js files
 Count Directories
+display 10 newest file
