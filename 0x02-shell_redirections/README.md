@@ -16,3 +16,4 @@ find a word
 COunt the word
 3 lines next
 Hde this word
+letter only
