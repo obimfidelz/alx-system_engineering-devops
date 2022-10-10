@@ -21,3 +21,4 @@ translate letters
 Donot translate but delect character
 Reverse input
 sort 
+Empty casks make the most noise
