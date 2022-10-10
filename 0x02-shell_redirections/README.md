@@ -12,3 +12,4 @@ Delete all .js files
 Count Directories
 display 10 newest file
 UNIQUE file
+find a word 
