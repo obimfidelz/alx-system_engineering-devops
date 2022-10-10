@@ -14,3 +14,4 @@ display 10 newest file
 UNIQUE file
 find a word 
 COunt the word
+3 lines next
