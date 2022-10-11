@@ -12,3 +12,4 @@ Love Exponent Breath
 Binary to Decimal
 Combinations
 Print Float
+decimal to hexadecimal
