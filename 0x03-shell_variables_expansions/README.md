@@ -7,3 +7,4 @@ Local Variable
 local Variable 2
 G Variable
 true knowledge
+Divide and Rule
