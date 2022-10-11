@@ -9,3 +9,4 @@ G Variable
 true knowledge
 Divide and Rule
 Love Exponent Breath
+Binary to Decimal
