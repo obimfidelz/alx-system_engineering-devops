@@ -4,3 +4,4 @@ path to success
 path be beautiful
 Global Variable
 Local Variable
+local Variable 2
