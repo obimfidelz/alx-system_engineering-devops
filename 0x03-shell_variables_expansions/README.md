@@ -13,3 +13,4 @@ Binary to Decimal
 Combinations
 Print Float
 decimal to hexadecimal
+rot
